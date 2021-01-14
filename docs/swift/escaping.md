@@ -2,6 +2,7 @@
 layout: default
 title: escaping
 parent: Swift
+nav_order: 2
 ---
 
 # @escaping

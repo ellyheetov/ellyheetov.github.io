@@ -2,6 +2,7 @@
 layout: default
 title: == VS ===
 parent: Swift
+nav_order: 3
 ---
 
 # Difference between == and ===
