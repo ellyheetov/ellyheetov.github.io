@@ -1,8 +1,7 @@
 ---
 layout: default
-title: test02
-parent: hyewon
-nav_order: 2
+title: escaping
+parent: Swift
 ---
 
 # @escaping
