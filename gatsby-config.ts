@@ -23,6 +23,7 @@ const config: GatsbyConfig = {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       // See the theme's README for all available options
       options: {
+        prismPreset: `dracula`,
         navigation: [
           {
             title: `Blog`,
@@ -53,7 +54,7 @@ const config: GatsbyConfig = {
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
-        // theme_color: `#6B46C1`,
+        theme_color: `#6B46C1`,
         display: `standalone`,
         icons: [
           {
